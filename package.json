@@ -1,6 +1,6 @@
 {
-  "name": "react-tween-state",
-  "version": "0.1.4",
+  "name": "@roblabla/react-tween-state",
+  "version": "0.1.5",
   "description": "React animation.",
   "main": "lib/index.js",
   "directories": {
